@@ -13,6 +13,9 @@ A powerful command-line trading bot for automating operations with USDC, R2USD, 
 link 
 https://r2.money?code=QETSZ
 
+### Faucet 
+https://discord.gg/aYvzSU2F
+
 ## ✨ Features
 
 ### 🚀 Core Operations
