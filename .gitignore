@@ -10,7 +10,7 @@ jspm_packages/
 .env.production
 
 # Proxy list
-proxies.txt
+proxiest.txt
 
 # Logs
 logs
