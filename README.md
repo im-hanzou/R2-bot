@@ -39,10 +39,10 @@ A powerful command-line trading bot for automating operations with USDC, R2USD, 
 
 ```bash
 # Clone the repository
-git clone https://github.com/zackymrf/r2.git
+git clone https://github.com/ZackyMrf/R2-bot
 
 # Navigate to the project directory
-cd r2
+cd R2-bot
 
 # Install dependencies
 npm install
