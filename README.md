@@ -11,7 +11,7 @@
 A powerful command-line trading bot for automating operations with USDC, R2USD, and sR2USD tokens on the Ethereum Sepolia testnet.
 
 link 
-https://r2.money?code=QETSZ
+https://r2.money?code=6G8BH
 
 ### Faucet 
 https://discord.gg/aYvzSU2F
