@@ -23,9 +23,6 @@ A powerful command-line trading bot for automating operations with USDC, R2USD, 
 ### 🔧 Advanced Tools
 | Feature | Description |
 |---------|-------------|
-| **Batch Operations** | Queue and execute multiple operations in sequence |
-| **Transaction Scheduler** | Set operations to execute at specific times |
-| **AI Trading Assistant** | Get personalized recommendations based on your portfolio |
 | **Gas Optimization** | Fine-tune gas settings for each transaction type |
 
 ### 💼 Management
