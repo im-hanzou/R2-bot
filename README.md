@@ -90,11 +90,8 @@ R2 Money Bot
   3. 📌  Stake R2USD to sR2USD
   4. 💰  Check balances
   5. ⚡  Auto Mode (Swap → Stake)
-  6. 📦  Batch Operations
-  7. ⏰  Transaction Scheduler
-  8. 🤖  AI Trading Assistant
-  9. ⚙️  Gas Settings
-  10. 🚪  Exit
+  6. ⚙️  Gas Settings
+  8. 🚪  Exit
 
   Select an option (1-10):
 ```
@@ -118,25 +115,6 @@ Automatically swap USDC to R2USD and then stake the received tokens in a single 
 - Streamline the two-step process
 - Optimize gas usage
 - Perfect for regular DeFi interactions
-
-### Batch Operations
-Create sequences of operations that execute in order:
-- Combine different transaction types
-- Set amounts for each operation
-- Execute the entire batch with one command
-
-### Transaction Scheduler
-Schedule transactions to run at specific times:
-- Set future execution times
-- Queue multiple scheduled operations
-- Monitor pending and completed scheduled tasks
-
-### AI Trading Assistant
-Get personalized recommendations based on your wallet:
-- Portfolio analysis
-- Strategy suggestions
-- Market insights
-- Optimal timing recommendations
 
 ### Gas Settings
 Customize transaction gas parameters:
@@ -163,6 +141,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-<div align="center">
-  <p>Made with ❤️ by Zacky Mrf</p>
-</div>
